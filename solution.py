@@ -1,3 +1,3 @@
 # Solution code goes here
-def add(a, b):
-    return a + b
+def valid_solution(board):
+    pass
